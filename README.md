@@ -1,6 +1,19 @@
 # vue_ts
 
 ## Project setup
+
+Before start development install vue-cli
+
+```
+npm install -g @vue/cli @vue/cli-service-global
+```
+
+To use UI run
+```
+vue ui
+```
+
+Now you can install dependencies
 ```
 npm install
 ```
